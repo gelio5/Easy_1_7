@@ -5,7 +5,6 @@
 
 TEST(Regular, vowelsError)
 {
-
     std::string fileName = "needToError";
     try
     {
